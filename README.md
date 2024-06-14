@@ -47,5 +47,5 @@ eb create employee-management-env
 eb deploy
 eb setenv DB_HOST=your-database-host DB_PORT=your-database-port DB_NAME=your-database-name DB_USER=your-database-username DB_PASSWORD=your-database-password
 
-![Screenshot 2024-06-14 111852](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/749be38c-fba1-4f44-965a-5d2c086d1543)
+
 

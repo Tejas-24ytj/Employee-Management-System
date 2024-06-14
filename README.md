@@ -48,4 +48,8 @@ eb deploy
 eb setenv DB_HOST=your-database-host DB_PORT=your-database-port DB_NAME=your-database-name DB_USER=your-database-username DB_PASSWORD=your-database-password
 
 
+## Images
+
+
+![Screenshot 2024-06-14 111852](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/359c6bd7-4d1a-4869-8767-ad38955d2aeb)
 

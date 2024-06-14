@@ -2,6 +2,13 @@
 
 This is a simple Employee Management System built with Java Spring Boot, Thymeleaf for the frontend, and MySQL RDS for the database. It allows you to create, update, delete, and retrieve employee records.
 
+
+![Screenshot 2024-06-14 111852](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/9ffcd01f-2cc1-4c58-be1b-8d535240f83e)
+![Screenshot 2024-06-14 111733](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/544f3911-ecc3-4126-8165-89fcb3c5273b)
+![Screenshot 2024-06-14 111719](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/47d359b0-c501-4082-ba81-818b1708cc94)
+![Screenshot 2024-06-14 111543](https://github.com/Tejas-24ytj/Employee-Management-System/assets/105742352/aa27162a-1dbf-4a75-bd57-5881ce1b09b7)
+
+
 ## Features
 
 - Add new employees
